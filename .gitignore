@@ -1,0 +1,20 @@
+# Compiled Java class files
+bin/
+*.class
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Temporary / Scratch files
+*.tmp
+*.log

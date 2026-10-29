@@ -1,0 +1,5 @@
+B101|Core Java: Fundamentals|Cay S. Horstmann|Computer Science|5|4|1
+B102|Java: The Complete Reference|Herbert Schildt|Computer Science|4|4|0
+B103|Data Structures & Algorithms in Java|Robert Lafore|Computer Science|3|3|0
+B104|Effective Java|Joshua Bloch|Software Engineering|2|1|1
+B105|Operating System Concepts|Silberschatz|Computer Science|1|1|0
